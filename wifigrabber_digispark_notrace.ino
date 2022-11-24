@@ -1,4 +1,4 @@
-/*rubberducky code translated to work on digispark by noonessenpa1  
+/*rubberducky code translated to work on digispark by noonessenpa1(T.W.L)  
 made to an one liner
 original code https://github.com/krankenpanzer wifi pass graber
 
